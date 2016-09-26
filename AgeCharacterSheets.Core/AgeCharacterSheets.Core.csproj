@@ -34,6 +34,8 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Abilities.cs" />
+    <Compile Include="Ability.cs" />
     <Compile Include="Character.cs" />
     <Compile Include="ICharacterRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
